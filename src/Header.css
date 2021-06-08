@@ -1,0 +1,28 @@
+header {
+  position: absolute;
+  display: flex;
+  flex: 1;
+  height: 2rem;
+}
+
+.payoption__container {
+  display: flex;
+  color: gray;
+  font-size: 0.8rem;
+  margin: 2rem 3rem;
+}
+
+.payoption__container > .payoption__container1 {
+  margin-right: 1rem;
+}
+
+.payoption__container > .payoption__container2 {
+  font-size: 0.6rem;
+  font-weight: 800;
+  margin-top: 0.4rem;
+}
+
+.payoption__container > .payoption__container3 .MuiSvgIcon-root {
+  font-size: 1rem;
+  margin-top: 0.28rem;
+}
