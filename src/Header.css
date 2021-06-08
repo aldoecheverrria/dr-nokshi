@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
 header {
   position: absolute;
   display: flex;
@@ -19,10 +21,12 @@ header {
 .payoption__container > .payoption__container2 {
   font-size: 0.6rem;
   font-weight: 800;
-  margin-top: 0.4rem;
+  margin-top: 0.3rem;
+  font-family: "Rubik", sans-serif;
 }
 
 .payoption__container > .payoption__container3 .MuiSvgIcon-root {
   font-size: 1rem;
-  margin-top: 0.28rem;
+  margin-top: 0.16rem;
+  cursor: pointer;
 }

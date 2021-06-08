@@ -12,7 +12,7 @@ function App() {
           <Main/>
         </div>
         <div className="container__right">
-          <PanToolIcon/>
+          <img width={94} height={59} src="http://preview.hasthemes.com/nokshi/assets/img/logo/logo.png"/>
           <SearchIcon/>
         </div>
     </div>
@@ -25,5 +25,6 @@ export default App;
 /*
 
 https://images.unsplash.com/photo-1597696929644-a2157a251a43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80
-
+http://preview.hasthemes.com/nokshi/index-2.html
+https://dribbble.com/shots/15790828-Nokshi-Handmade-Shopify-Theme
 */

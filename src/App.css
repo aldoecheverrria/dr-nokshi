@@ -31,3 +31,9 @@
 article {
   display: flex;
 }
+
+.app .container__right > .MuiSvgIcon-root {
+  color: #868e96;
+  margin-right: 1rem;
+  cursor: pointer;
+}
