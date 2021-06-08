@@ -20,7 +20,8 @@ header {
 
 .payoption__container > .payoption__container2 {
   font-size: 0.6rem;
-  font-weight: 800;
+  font-weight: 900;
+  font-style: normal;
   margin-top: 0.3rem;
   font-family: "Rubik", sans-serif;
 }

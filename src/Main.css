@@ -8,9 +8,11 @@
 }
 
 .main h1 {
-  font-size: small;
+  font-size: 0.8rem;
+  font-style: normal;
   margin-left: 4rem;
   margin-top: 8rem;
+  word-spacing: 0.5px;
   font-weight: 400;
   font-family: "Rubik", sans-serif;
 }
@@ -19,18 +21,22 @@
   font-size: 3rem;
   margin-left: 4rem;
   margin-top: 3rem;
-  line-height: 0.5rem;
+  line-height: 0.1rem;
   font-weight: bold;
   font-family: "Playfair Display", serif;
 }
 
 button {
-  width: 140px;
+  width: 150px;
   height: 35px;
   border: 1px solid black;
-  border-radius: 15px;
+  border-radius: 50px;
+  letter-spacing: 0.5px;
   background-color: lightgray;
   margin-top: 3rem;
   margin-left: 4rem;
+  font-weight: 400;
+  font-size: 0.8rem;
+  font-style: normal;
   font-family: "Rubik", sans-serif;
 }
