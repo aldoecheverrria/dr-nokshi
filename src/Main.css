@@ -36,7 +36,16 @@ button {
   margin-top: 3rem;
   margin-left: 4rem;
   font-weight: 400;
+  transition: font 0.3s ease-out;
   font-size: 0.8rem;
   font-style: normal;
   font-family: "Rubik", sans-serif;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+  color: aliceblue;
+  font-size: 1rem;
+  transition: font 0.3s ease-in;
 }

@@ -1,12 +1,14 @@
 import './App.css';
 import Header from './Header';
-import PanToolIcon from '@material-ui/icons/PanTool';
 import SearchIcon from '@material-ui/icons/Search';
 import Main from './Main';
 
 function App() {
   return (
     <div className="app">
+        <div className="banner">
+          <p>Not responsive. Based on Nokshi, all creadits to the creator, original <a target="_blank" href="https://dribbble.com/shots/15790828-Nokshi-Handmade-Shopify-Theme">here</a></p>
+        </div>
         <div className="container__left">
           <Header/>
           <Main/>
